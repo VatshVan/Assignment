@@ -1,6 +1,3 @@
-'''
-    Sieve of Eratosthenes
-'''
 import sys
 import time
 # your implementation for printing the list of prime numbers
